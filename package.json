@@ -1,0 +1,19 @@
+{
+  "name": "btc.yimobile.com.br",
+  "version": "1.0.0",
+  "description": "Aplicação para verificar tickets e cotação do Bitcoin",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exemplo12012/btc-yimobile.git"
+  },
+  "author": "henrique.rivero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exemplo12012/btc-yimobile/issues"
+  },
+  "homepage": "https://github.com/exemplo12012/btc-yimobile#readme"
+}
