@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/exemplo12012/btc-yimobile/issues"
   },
-  "homepage": "https://github.com/exemplo12012/btc-yimobile#readme"
+  "homepage": "https://github.com/exemplo12012/btc-yimobile#readme",
+  "dependencies": {
+    "bcrypt": "^2.0.1",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "graphql": "^0.13.2",
+    "mysql": "^2.15.0",
+    "poloniex-api-node": "^1.8.1"
+  },
+  "start-docker": "pm2-docker start pm2_configs/config.json"
 }
